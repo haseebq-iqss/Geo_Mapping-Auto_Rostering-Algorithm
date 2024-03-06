@@ -1,0 +1,52 @@
+[
+    {
+        "name": "A",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "B",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "C",
+        "seatingCapacity": 8,
+        "passengers": []
+    },
+    {
+        "name": "D",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "E",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "F",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "G",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "H",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "I",
+        "seatingCapacity": 6,
+        "passengers": []
+    },
+    {
+        "name": "J",
+        "seatingCapacity": 6,
+        "passengers": []
+    }
+]

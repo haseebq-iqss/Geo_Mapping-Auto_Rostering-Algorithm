@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65e86062063f903d200a682e"
+  },
+  "name": "Saaib Qazi",
+  "coordinates": [
+    34.048067,
+    74.78793
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e86062063f903d200a6830"
+  },
+  "name": "Afnan Hakeem",
+  "coordinates": [
+    34.03318,
+    74.782408
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e86062063f903d200a6831"
+  },
+  "name": "Basit Manzoor",
+  "coordinates": [
+    34.012912,
+    74.804278
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e86062063f903d200a6833"
+  },
+  "name": "Haseeb Qureshi",
+  "coordinates": [
+    34.007825,
+    74.803501
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e86062063f903d200a6836"
+  },
+  "name": "Hafsa Qazi",
+  "coordinates": [
+    34.026025,
+    74.784748
+  ]
+}]
